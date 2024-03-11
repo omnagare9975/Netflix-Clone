@@ -1,0 +1,5 @@
+./bits.go
+./builder.go
+./builder_docker.go
+./doc.go
+./source.go
